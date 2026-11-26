@@ -18,14 +18,13 @@ I'm an IT student passionate about building modern, responsive, and functional w
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,figma,vite,npm" />
-  <img src="https://skills.syvixor.com/api/icons?i=claude,codex" height="48" />
 </p>
 
 ## Deployment & Hosting
 
 <p>
   <img src="https://skillicons.dev/icons?i=vercel" />
-  <img src="https://cdn.simpleicons.org/railway/FFFFFF" width="48" height="48" alt="Railway" />
+  <img src="https://cdn.simpleicons.org/railway/FFFFFF" width="45" height="45" alt="Railway" />
 </p>
 
 ---
