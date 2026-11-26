@@ -17,16 +17,16 @@ I'm an IT student passionate about building modern, responsive, and functional w
 ## Developer Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vite,npm" />
-  <img src="https://cdn.simpleicons.org/claude/D97757" width="45" height="45" alt="Claude" />
-  <img src="https://img.shields.io/badge/OpenAI-Codex-412991?style=for-the-badge" height="45" alt="Codex" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,figma,vite,npm" />
+  <img src="https://cdn.simpleicons.org/claude/D97757" width="48" height="48" alt="Claude" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/codex.svg" width="48" height="48" alt="Codex" />
 </p>
 
 ## Deployment & Hosting
 
 <p>
   <img src="https://skillicons.dev/icons?i=vercel" />
-  <img src="https://cdn.simpleicons.org/railway/FFFFFF" width="45" height="45" alt="Railway" />
+  <img src="https://cdn.simpleicons.org/railway/FFFFFF" width="48" height="48" alt="Railway" />
 </p>
 
 ---
