@@ -11,7 +11,7 @@ I'm a Full-Stack Developer with a passion for building modern, intuitive, and fu
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,bootstrap,js,django,py,nodejs,express,php,sqlite,postgres,mysql&perline=13" />
+  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,bootstrap,js,django,py,nodejs,express,sqlite,postgres,mysql&perline=13" />
 </p>
 
 ## Developer Tools
