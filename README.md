@@ -17,7 +17,7 @@ I'm an IT student passionate about building modern, responsive, and functional w
 ## Developer Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,framer,figma,vite,npm" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vite,npm" />
 </p>
 
 ## Deployment & Hosting
