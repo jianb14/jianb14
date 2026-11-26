@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm an IT student passionate about building modern, responsive, and functional web applications, with an interest in full-stack development and UI/UX design.
+I'm a Full-Stack Developer with a passion for building modern, intuitive, and functional web applications. I enjoy working across frontend and backend development, with a strong interest in UI/UX design and backend architecture. Currently, I'm deepening my backend development skills as I work toward becoming a Software Engineer.
 
 ## Tech Stack
 
