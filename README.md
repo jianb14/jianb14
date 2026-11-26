@@ -10,17 +10,24 @@ I'm an IT student passionate about building modern, responsive, and functional w
 
 ## Tech Stack
 
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,ts,tailwind,bootstrap,js" height="40" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=django,py,nodejs,express,php" height="40" /> |
-| **Database** | <img src="https://skillicons.dev/icons?i=sqlite,postgres,mysql" height="40" /> |
-| **Version Control** | <img src="https://skillicons.dev/icons?i=git,github" height="40" /> |
-| **IDE & Editors** | <img src="https://skillicons.dev/icons?i=vscode,pycharm" height="40" /> |
-| **API Testing** | <img src="https://skillicons.dev/icons?i=postman" height="40" /> |
-| **UI/UX Design** | <img src="https://skillicons.dev/icons?i=figma" height="40" /> |
-| **Build & Package Tools** | <img src="https://skillicons.dev/icons?i=vite,npm" height="40" /> |
-| **Deployment & Hosting** | <img src="https://skillicons.dev/icons?i=vercel,netlify" height="40" /> |
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,bootstrap,js,django,py,nodejs,express,php,sqlite,postgres,mysql&perline=13" />
+</p>
+
+## Developer Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,figma,vite,npm" />
+  <img src="https://cdn.simpleicons.org/claude/D97757" width="45" height="45" alt="Claude" />
+  <img src="https://img.shields.io/badge/OpenAI-Codex-412991?style=for-the-badge" height="45" alt="Codex" />
+</p>
+
+## Deployment & Hosting
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel" />
+  <img src="https://cdn.simpleicons.org/railway/FFFFFF" width="45" height="45" alt="Railway" />
+</p>
 
 ---
 
