@@ -17,7 +17,7 @@ I'm an IT student passionate about building modern, responsive, and functional w
 ## Developer Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,figma,vite,npm" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vite,npm" />
   <img src="https://cdn.simpleicons.org/claude/D97757" width="45" height="45" alt="Claude" />
   <img src="https://img.shields.io/badge/OpenAI-Codex-412991?style=for-the-badge" height="45" alt="Codex" />
 </p>
