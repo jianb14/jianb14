@@ -18,8 +18,7 @@ I'm an IT student passionate about building modern, responsive, and functional w
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,figma,vite,npm" />
-  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/claude-color.svg" width="48" height="48" alt="Claude" />
-  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/codex-color.svg" width="48" height="48" alt="Codex" />
+  <img src="https://skills.syvixor.com/api/icons?i=claude,codex" height="48" />
 </p>
 
 ## Deployment & Hosting
